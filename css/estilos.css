@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../Imag/WhatsApp\ Image\ 2023-05-09\ at\ 1.57.35\ PM.jpeg'); 
+    background-size: cover;
+}
+
+
+header {
+    background-color: #333;
+    color: #6cd47e;
+    text-align: center;
+    padding: 20px;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+section {
+    padding: 20px;
+    background-color: #6cd47e;
+    margin: 20px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
